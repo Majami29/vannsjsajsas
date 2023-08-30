@@ -2,11 +2,11 @@
     "theme_color": "#164F18",
     "background_color": "#164F18",
     "display": "standalone",
-"capture_links": "existing-client-navigate", 
+    "capture_links": "existing-client-navigate", 
     "scope": "http://vanillamarket.ru/",
     "start_url": "http://vanillamarket.ru/mobile",
-    "name": "\u0412\u0430\u043d\u0438\u043b\u044c\u041c\u0430\u0440\u043a\u0435\u0442",
-    "short_name": "\u0412\u0430\u043d\u0438\u043b\u044c\u041c\u0430\u0440\u043a\u0435\u0442",
+    "name": "ВанильМаркет",
+    "short_name": "ВанильМаркет",
     "description": "",
     "icons": [
         {
