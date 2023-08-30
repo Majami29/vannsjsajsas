@@ -2,6 +2,7 @@
     "theme_color": "#164F18",
     "background_color": "#164F18",
     "display": "standalone",
+"capture_links": "existing-client-navigate", 
     "scope": "http://vanillamarket.ru/",
     "start_url": "http://vanillamarket.ru/mobile",
     "name": "\u0412\u0430\u043d\u0438\u043b\u044c\u041c\u0430\u0440\u043a\u0435\u0442",
@@ -21,6 +22,41 @@
         {
             "src": "/icon-384x384.png",
             "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "180x180",
             "type": "image/png"
         },
         {
